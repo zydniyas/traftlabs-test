@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.ant-select-selector {
+    background-color: rgb(240, 240, 240) !important;
+    border: none !important;
+}
+.ant-layout .ant-layout-sider {
+    background-color: white !important;
+}
+.progress-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+    margin-inline: auto;
+}
