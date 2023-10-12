@@ -37,7 +37,7 @@ cursor-pointer"
                                 </Badge>
                                 <img
                                     className="progress-img"
-                                    src="../../public/assets/img/png/avatar1.png"
+                                    src="/assets/img/png/avatar1.png"
                                     alt="Your Image"
                                 />
                             </div>
